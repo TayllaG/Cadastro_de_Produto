@@ -1,0 +1,11 @@
+C:\Users\tayll\source\repos\CadastroProduto\prova 2 bimestre\bin\Debug\prova 2 bimestre.exe.config
+C:\Users\tayll\source\repos\CadastroProduto\prova 2 bimestre\bin\Debug\prova 2 bimestre.exe
+C:\Users\tayll\source\repos\CadastroProduto\prova 2 bimestre\bin\Debug\prova 2 bimestre.pdb
+C:\Users\tayll\source\repos\CadastroProduto\prova 2 bimestre\obj\Debug\Cadastrar Produto.csproj.AssemblyReference.cache
+C:\Users\tayll\source\repos\CadastroProduto\prova 2 bimestre\obj\Debug\Cadastrar Produto.csproj.SuggestedBindingRedirects.cache
+C:\Users\tayll\source\repos\CadastroProduto\prova 2 bimestre\obj\Debug\prova_2_bimestre.Form1.resources
+C:\Users\tayll\source\repos\CadastroProduto\prova 2 bimestre\obj\Debug\prova_2_bimestre.Properties.Resources.resources
+C:\Users\tayll\source\repos\CadastroProduto\prova 2 bimestre\obj\Debug\Cadastrar Produto.csproj.GenerateResource.cache
+C:\Users\tayll\source\repos\CadastroProduto\prova 2 bimestre\obj\Debug\Cadastrar Produto.csproj.CoreCompileInputs.cache
+C:\Users\tayll\source\repos\CadastroProduto\prova 2 bimestre\obj\Debug\prova 2 bimestre.exe
+C:\Users\tayll\source\repos\CadastroProduto\prova 2 bimestre\obj\Debug\prova 2 bimestre.pdb
